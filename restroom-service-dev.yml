@@ -1,2 +1,5 @@
 config:
   title: test-title
+spring:
+  datasource:
+    username: '{cipher}ebae9225374dfd0636de434f7998db879f7123467b303806d081897efb597170'
